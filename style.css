@@ -82,17 +82,17 @@ body{
 }
 
 .slider .one{
-    background-image: url(imagens/csharp.png);
+    background-image: url(moda.jpg);
 }
 
 .slider .two{
-    background-image: url(imagens/html5css3.png);
+    background-image: url(inverno.jpg);
 }
 
 .slider .three{
-    background-image: url(imagens/java.png);
+    background-image: url(verao.jpg);
 }
 
 .slider .four{
-    background-image: url(imagens/javaScript.png);
+    background-image: url(outono.jpg);
 }
